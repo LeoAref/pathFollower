@@ -1,5 +1,5 @@
 /**
- * pathFollower.js
+ * pathFollower
  *
  * MIT License
  * Copyright (c) 2016 Muhammad Aref
